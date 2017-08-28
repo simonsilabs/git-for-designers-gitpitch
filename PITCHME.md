@@ -32,16 +32,16 @@ Explain with Abstract
 
 +++
 
+- ~~MyApp_redesign_V3_new_final_updated2_final_new.sketch~~ |
 - collaboration |
 - know what's the most recent version |
 - revert, review, history |
 - communicate changes to team |
 - scalability |
-- ~~MyApp-redesign-V3-new_final_updated2-final-new.sketch~~ |
 
 ---
 
-# How to solve this for design files
+## How to solve this for design files
 
 ---
 
