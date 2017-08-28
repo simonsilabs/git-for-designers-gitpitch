@@ -9,10 +9,10 @@ Explain with Abstract
 
 +++
 
-- Version control
-- git vs github
-- commit = save snapshot of current status
-- remote vs local
+- Version control |
+- git vs github |
+- commit = save snapshot of current status |
+- remote vs local |
 
 ---
 
@@ -20,9 +20,9 @@ Explain with Abstract
 
 +++
 
-- one master
-- plus eg: development branch
-- plus every step in working
+- one master |
+- plus eg: development branch |
+- plus every step in working |
 
 branches are still there after merging, so maybe name them with date to keep overview
 
@@ -32,20 +32,20 @@ branches are still there after merging, so maybe name them with date to keep ove
 
 +++
 
-- collaboration
-- know what's the most recent version
-- revert, review, history
-- communicate changes to team
-- scalability
-- no MyApp-redesign-V3-new_final_updated2.sketch
+- collaboration |
+- know what's the most recent version |
+- revert, review, history |
+- communicate changes to team |
+- scalability |
+- no `MyApp-redesign-V3-new_final_updated2-final-new.sketch` |
 
 ---
 
-## best practices
-- don't work on the same branch
-- commit early and often
-- meaningful descriptions
-- commit messages start with verb
+## best practices |
+- don't work on the same branch |
+- commit early and often |
+- meaningful descriptions |
+- commit messages start with verb |
 
 ---
 
@@ -54,8 +54,8 @@ branches are still there after merging, so maybe name them with date to keep ove
 ---
 
 # Abstract
-goabstract.com
-0/9/21 $/month
+goabstract.com 
+0/9/21 $/month 
 
 +++
 
