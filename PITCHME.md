@@ -24,7 +24,7 @@ Explain with Abstract
 - plus eg: development branch |
 - plus every step in working |
 
-branches are still there after merging, so maybe name them with date to keep overview
+branches are still there after merging, so maybe name them with date to keep overview |
 
 ---
 
@@ -41,15 +41,7 @@ branches are still there after merging, so maybe name them with date to keep ove
 
 ---
 
-## best practices |
-- don't work on the same branch |
-- commit early and often |
-- meaningful descriptions |
-- commit messages start with verb |
-
----
-
-# Solutions
+# How to solve this for design files
 
 ---
 
@@ -59,24 +51,24 @@ goabstract.com
 
 +++
 
-(+) pro
-thought through,
-polished,
-easy to get going,
-no need to understand git,
-comments,
-viewers are free,
-collections
+### (+) the good
+- thought through, polished 
+- easy to get going
+- no need to understand git
+- comments
+- collections
+- viewers are free
 
 +++
 
-(-) con
-closed system
-Artboard-based
-all in the cloud 
+### (-) the bad
+- closed system
+- Artboard-based
+- it's all in the cloud 
 
 ---
 
+## other Apps:
 Folio
 PlantApp
 Layervault
@@ -91,28 +83,35 @@ kactus.io
 
 +++
 
-(-) con
-UI far from perfect
-you should know basics of git 
-diff not perfect
-only with github/ github enterprise ??
-not stable yet v0.2.4
-slow with complex files
-no comments/viewers/etc
+###(-) the bad
+- UI far from perfect |
+- you should know basics of git |
+- diff not perfect |
+- slow with complex files |
+- no comments/viewers/etc like Abstract |
+- not stable yet v0.2.5 |
 
 +++
 
-(+) pro
-works with git under the hood
-splits .sketch file and saves it as text
--->layer-based
-open system,
-can alyways export(generate) sketch file 
-open source(?)
-self hosted mit github enterprise
-active development
-auto updates open sketch file (sometimes)
+###(+) the good
+- works with git under the hood |
+- splits .sketch file and saves it as text -->layer-based |
+- open system, can alyways export(generate) sketch file  |
+- auto updates open sketch file (sometimes) |
+- active development |
+- open source(?) |
+- self hosted mit github enterprise |
 
-help out (bug reports, etc): https://github.com/kactus-io
+help out and improve it! (bug reports, etc): https://github.com/kactus-io |
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+---
+
+## git best practices 
+- don't work on the same branch |
+- commit early and often |
+- commit messages start with verb |
+- meaningful descriptions |
+
+---
+
+thanks!
