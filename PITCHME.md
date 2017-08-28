@@ -68,7 +68,7 @@ goabstract.com
 
 +++
 
-### :'( the ugly
+### (⊙_◎) the ugly
 - it's all in the cloud 
 
 ---
@@ -109,12 +109,12 @@ kactus.io
 
 +++
 
-### ;D the shiny
+### (≧◡≦) the shiny
 - self hosting possible with github enterprise |
 
 +++
 
-### :'( the ugly
+### (⊙_◎) the ugly
 - not stable yet v0.2.5 
 
 help out and improve it! (bug reports, etc): https://github.com/kactus-io 
