@@ -78,7 +78,7 @@ Folio
 PlantApp  
 Layervault  
 Pixelapse  
-git sketch plugin
+git sketch plugin |
 
 ---
 
@@ -116,6 +116,7 @@ kactus.io
 
 ### (⊙_◎) the ugly
 - not stable yet v0.2.5 
+
 
 help out and improve it! (bug reports, etc): https://github.com/kactus-io 
 
