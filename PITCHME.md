@@ -38,7 +38,7 @@ Explain with Abstract
 - revert, review, history |
 - communicate changes to team |
 - scalability |
-- ~~MyApp-redesign-V3-new_final_updated2-final-new.sketch~~ |
+~~ - MyApp-redesign-V3-new_final_updated2-final-new.sketch~~ |
 
 ---
 
@@ -75,10 +75,10 @@ goabstract.com
 ---
 
 ## other Apps:
-Folio
-PlantApp
-Layervault
-Pixelapse
+Folio  
+PlantApp  
+Layervault  
+Pixelapse  
 git sketch plugin
 
 ---
