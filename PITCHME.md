@@ -1,5 +1,7 @@
 # Git for Designers
 
+---
+
 ## git basics (explain with Abstract)
 - Version control
 - git vs github
