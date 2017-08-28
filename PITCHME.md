@@ -118,7 +118,7 @@ kactus.io
 - not stable yet v0.2.5 
 
 
-<sub><sup>help out and improve it! (bug reports, etc): https://github.com/kactus-io </sup></sub>
+help out and improve it! (bug reports, etc): https://github.com/kactus-io
 
 ---
 
@@ -130,6 +130,6 @@ kactus.io
 
 ---
 
-### thanks!
+thanks!
 
-<sub><sup>created with GitPitch</sup></sub>
+*created with GitPitch*
