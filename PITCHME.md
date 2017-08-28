@@ -2,27 +2,41 @@
 
 ---
 
-## git basics (explain with Abstract)
+## git basics 
+
++++
+
 - Version control
 - git vs github
 - commit = save snapshot of current status
 - remote vs local
 
+---
 
 ## git = version control plus "branch" + "merge"
+
++++
+
 - one master
 - plus eg: development branch
 - plus every step in working
 
 branches are still there after merging, so maybe name them with date to keep overview
 
+---
+
 ## Why this is a good idea?
+
++++
+
 - collaboration
 - know what's the most recent version
 - revert, review, history
 - communicate changes to team
 - scalability
 - no MyApp-redesign-V3-new_final_updated2.sketch
+
+---
 
 ## best practices
 - don't work on the same branch
@@ -31,14 +45,16 @@ branches are still there after merging, so maybe name them with date to keep ove
 - commit messages start with verb
 
 ---
----
 
 # Solutions
 
+---
 
 # Abstract
 goabstract.com
 0/9/21 $/month
+
++++
 
 (+) pro
 thought through,
@@ -49,6 +65,8 @@ comments,
 viewers are free,
 collections
 
++++
+
 (-) con
 closed system
 Artboard-based
@@ -56,7 +74,10 @@ all in the cloud
 
 ---
 
-Folio, PlantApp, Layervault, Pixelapse
+Folio
+PlantApp
+Layervault
+Pixelapse
 git sketch plugin
 
 ---
@@ -64,6 +85,8 @@ git sketch plugin
 # Kactus
 kactus.io
 0/5/12 $/month
+
++++
 
 (-) con
 UI far from perfect
@@ -73,6 +96,8 @@ only with github/ github enterprise ??
 not stable yet v0.2.4
 slow with complex files
 no comments/viewers/etc
+
++++
 
 (+) pro
 works with git under the hood
