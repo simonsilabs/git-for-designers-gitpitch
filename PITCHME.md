@@ -130,4 +130,6 @@ help out and improve it! (bug reports, etc): https://github.com/kactus-io
 
 ---
 
-thanks!
+### thanks!
+
+created with gitpitch
