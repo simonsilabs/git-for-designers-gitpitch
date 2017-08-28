@@ -28,11 +28,11 @@ Explain with Abstract
 
 ---
 
-## Why this is a good idea?
+## How does it help?
 
 +++
 
-- ~~MyApp_redesign_V3_new_final_updated2_final_new.sketch~~ |
+- ~~MyApp_redesign_V3_new_final_updated2_final_new.sketch~~ 
 - collaboration |
 - know what's the most recent version |
 - revert, review, history |
@@ -41,7 +41,7 @@ Explain with Abstract
 
 ---
 
-## How to solve this for design files
+## But how!?
 
 ---
 
@@ -53,7 +53,7 @@ goabstract.com
 +++
 
 ### :) the good
-- thought through, polished 
+- thought-through, polished 
 - easy to get going
 - no need to understand git
 - comments
@@ -91,7 +91,7 @@ kactus.io
 
 ### :/ the bad
 - you should know basics of git |
-- diff not perfect |
+- diff view is weird |
 - slow with complex files |
 - no comments/viewers/etc like Abstract |
 - UI far from perfect |
@@ -102,11 +102,15 @@ kactus.io
 ## :) the good
 - works with git under the hood |
 - splits .sketch file and saves it as text -->layer-based |
-- open system, can alyways export(generate) sketch file  |
+- open system, can alyways generate sketch file  |
 - auto updates open sketch file (sometimes) |
 - active development |
 - open source(?) |
-- self hosted mit github enterprise |
+
++++
+
+### ;D the shiny
+- self hosting possible with github enterprise |
 
 +++
 
