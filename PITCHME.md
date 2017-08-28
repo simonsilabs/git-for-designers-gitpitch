@@ -10,13 +10,14 @@ Explain with Abstract
 +++
 
 - Version control |
-- git vs github |
+- git ≠ github |
 - commit = save snapshot of current status |
 - remote vs local |
 
 ---
 
-## git = version control plus + "branch" & "merge"
+## "branch" & "merge"
+![](http://palo-it.com/wp-content/uploads/Feature-Branch.png)
 
 +++
 
