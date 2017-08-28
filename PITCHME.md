@@ -17,7 +17,7 @@ Explain with Abstract
 ---
 
 ## "branch" & "merge"
-![](http://palo-it.com/wp-content/uploads/Feature-Branch.png)
+![](http://palo-it.com/wp-content/uploads/Feature-Branch.png) |
 
 +++
 
