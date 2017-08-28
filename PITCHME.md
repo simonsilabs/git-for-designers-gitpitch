@@ -4,6 +4,9 @@
 
 ## git basics 
 
+Note:
+Explain with Abstract
+
 +++
 
 - Version control
@@ -13,7 +16,7 @@
 
 ---
 
-## git = version control plus "branch" + "merge"
+## git = version control plus + "branch" & "merge"
 
 +++
 
