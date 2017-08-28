@@ -38,7 +38,7 @@ Explain with Abstract
 - revert, review, history |
 - communicate changes to team |
 - scalability |
-- no `MyApp-redesign-V3-new_final_updated2-final-new.sketch` |
+- ~~MyApp-redesign-V3-new_final_updated2-final-new.sketch~~ |
 
 ---
 
@@ -48,11 +48,12 @@ Explain with Abstract
 
 # Abstract
 goabstract.com 
+
 0/9/21 $/month 
 
 +++
 
-### (+) the good
+### :) the good
 - thought through, polished 
 - easy to get going
 - no need to understand git
@@ -62,9 +63,13 @@ goabstract.com
 
 +++
 
-### (-) the bad
+###  :/ the bad
 - closed system
 - Artboard-based
+
++++
+
+### :'( the ugly
 - it's all in the cloud 
 
 ---
@@ -80,11 +85,12 @@ git sketch plugin
 
 # Kactus
 kactus.io
+
 0/5/12 $/month
 
 +++
 
-###(-) the bad
+### :/ the bad
 - UI far from perfect |
 - you should know basics of git |
 - diff not perfect |
@@ -94,7 +100,12 @@ kactus.io
 
 +++
 
-###(+) the good
+### :'( the ugly
+- not stable yet v0.2.5 |
+
++++
+
+## :) the good
 - works with git under the hood |
 - splits .sketch file and saves it as text -->layer-based |
 - open system, can alyways export(generate) sketch file  |
