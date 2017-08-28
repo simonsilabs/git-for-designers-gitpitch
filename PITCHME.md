@@ -91,19 +91,14 @@ kactus.io
 +++
 
 ### :/ the bad
-- UI far from perfect |
 - you should know basics of git |
 - diff not perfect |
 - slow with complex files |
 - no comments/viewers/etc like Abstract |
-- not stable yet v0.2.5 |
+- UI far from perfect |
 
 +++
 
-### :'( the ugly
-- not stable yet v0.2.5 |
-
-+++
 
 ## :) the good
 - works with git under the hood |
@@ -114,7 +109,12 @@ kactus.io
 - open source(?) |
 - self hosted mit github enterprise |
 
-help out and improve it! (bug reports, etc): https://github.com/kactus-io |
++++
+
+### :'( the ugly
+- not stable yet v0.2.5 
+
+help out and improve it! (bug reports, etc): https://github.com/kactus-io 
 
 ---
 
