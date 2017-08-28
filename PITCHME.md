@@ -16,7 +16,7 @@ Explain with Abstract
 
 ---
 
-## "branch" & "merge"
+## branch & merge
 ![](http://palo-it.com/wp-content/uploads/Feature-Branch.png)
 
 +++
@@ -24,7 +24,6 @@ Explain with Abstract
 - one master |
 - plus eg: development branch |
 - plus every step in working |
-<br>
 - branches are still there after merging |
 
 ---
