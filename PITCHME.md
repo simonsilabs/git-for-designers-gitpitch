@@ -17,15 +17,15 @@ Explain with Abstract
 ---
 
 ## "branch" & "merge"
-![](http://palo-it.com/wp-content/uploads/Feature-Branch.png) |
+![](http://palo-it.com/wp-content/uploads/Feature-Branch.png)
 
 +++
 
 - one master |
 - plus eg: development branch |
 - plus every step in working |
-
-branches are still there after merging, so maybe name them with date to keep overview |
+<br>
+- branches are still there after merging |
 
 ---
 
